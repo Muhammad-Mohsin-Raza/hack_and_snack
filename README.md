@@ -31,6 +31,9 @@ This hackathon project is our attempt to accomplish the Idea. But unfortunately 
 3. Once the User is done checking the nearby restaurants he could logout with a single button atthe top right.
 
 ## How we built it ⚙️
+The real gem behind this project is the Geoapify API for Places. This API provides details on twenty of hotels, making it possible for us to include custom details for so many beaches. Although this API only provides information about hotels in Pakistan, we hope to add hotels from around the world in the future.
+The data from the Geoapify API is queried by our server hourly, and saved into our MongoDB database (to avoid overloading their API). This database can be queried by name and location (latitude, longitude).
+Another part of our project is that we have provide an option for sign in with google , facebook and twitter using Passport.js and one can also continue without login.
 
 
 
