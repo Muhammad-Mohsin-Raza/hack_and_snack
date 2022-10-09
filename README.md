@@ -54,3 +54,7 @@ We plan to finish this challenge and create a complete web application and help 
 <a href="https://github.com/ahamedbasha-n/hack_and_snack/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ahamedbasha-n/hack_and_snack"/>
 </a>
+
+## Show your support
+
+Please ⭐️ this repository if this project helped you!
