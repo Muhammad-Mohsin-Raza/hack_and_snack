@@ -36,6 +36,14 @@ The data from the Geoapify API is queried by our server hourly, and saved into o
 
 Another part of our project is that we have provide an option for sign in with google , facebook and twitter using Passport.js and one can also continue without login.
 
+## Installation ✅
+
+```bash
+npm install
+```
+```bash
+npm run dev -- --open
+```
 
 ## Challenges we ran into 💻
 1. Fetching, Installing Dependencies and Fixing Backend Errors.
@@ -58,3 +66,4 @@ We plan to finish this challenge and create a complete web application and help 
 ## Show your support
 
 Please ⭐️ this repository if this project helped you!
+
