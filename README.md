@@ -4,7 +4,7 @@ This project is submitted for [MLH - Hack and Snack 2022 Hackathon](https://hack
 
 ---
 
-The Idea behind **Hungry for Food** is to build a hassle-free web application which **fetches the nearby restaurants** of the user to **pre-book/ reserve** your seats with ease. It could also provide you features of each restaurants and on the other hand you caould also publish your delicious recipe with your friends, family or almost anyone in the web.
+The Idea behind **Hungry for Food** is to build a hassle-free web application which **fetches the nearby restaurants** of the user to **pre-book/ reserve** your seats with ease. It could also provide you features of each restaurants and on the other hand you could also publish your delicious recipe with your friends, family or almost anyone in the web.
 
 # Technology Stack Used:
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -38,11 +38,11 @@ Another part of our project is that we have provide an option for sign in with g
 
 
 ## Challenges we ran into 💻
-1. Fetching, Installing Dependancies and Fixing Backend Errors.
+1. Fetching, Installing Dependencies and Fixing Backend Errors.
 2. Figuring out the API for different regions or co-ordinates of different places was a huge task.
 
 ## Accomplishments that we're proud of 🏆
-We were able to partially complete the idea behind the challenge and create a hack to solve this problem. Team Work was somthing we were really proud of specially when we had errors we worked togather to fix them.
+We were able to partially complete the idea behind the challenge and create a hack to solve this problem. Team Work was something we were really proud of specially when we had errors we worked together to fix them.
 
 ## What we learnt 📚
 We experimented lot of API's and learnt pretty much everything we used out of this project.
