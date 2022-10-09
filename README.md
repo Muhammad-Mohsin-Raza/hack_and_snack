@@ -21,7 +21,7 @@ The Idea behind **Hungry for Food** is to build a hassle-free web application wh
 - Passport.js: Authentication middleware for Google OAuth
 
 #### APIs used
-- [Geoapify API for Places](https://apidocs.geoapify.com/docs/places/#about): We give latitude and longitude values and it will fetch all nearby resturants data.
+- [Geoapify API for Places](https://apidocs.geoapify.com/docs/places/#about): Our website will calculate latitude and longitude values of current location and it will fetch all nearby resturants data.
 
 ## What it does?
 This hackathon project is our attempt to accomplish the Idea. But unfortunately we were not able to accomplish it entirely.
