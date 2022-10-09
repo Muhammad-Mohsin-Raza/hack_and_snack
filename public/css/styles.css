@@ -1,0 +1,8 @@
+body * {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* For displaying buttons in a single line */
+.for{
+  display: inline;
+}
