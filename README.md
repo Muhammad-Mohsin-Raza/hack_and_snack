@@ -45,4 +45,4 @@ We were able to partially complete the idea behind the challenge and create a ha
 We experimented lot of API's and learnt pretty much everything we used out of this project.
 
 ## What's next for Hungry for Food?
-We plan to finish this challenge and create a complete web application and help user to experience the best out of it.
+We plan to finish this challenge and create a complete web application and help the user to experience the best out of it.
