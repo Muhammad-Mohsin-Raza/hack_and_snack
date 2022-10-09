@@ -36,7 +36,7 @@ The data from the Geoapify API is queried by our server hourly, and saved into o
 
 Another part of our project is that we have provide an option for sign in with google , facebook and twitter using Passport.js and one can also continue without login.
 
-## Installation ✅
+## Installation/Execution ✅
 
 ```bash
 npm install
