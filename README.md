@@ -31,8 +31,9 @@ This hackathon project is our attempt to accomplish the Idea. But unfortunately 
 3. Once the User is done checking the nearby restaurants he could logout with a single button atthe top right.
 
 ## How we built it ⚙️
-
-
+The real gem behind this project is the Geoapify API for Places. This API provides details on twenty of hotels, making it possible for us to include custom details for so many beaches. Although this API only provides information about hotels in Pakistan, we hope to add hotels from around the world in the future.
+The data from the Geoapify API is queried by our server hourly, and saved into our MongoDB database (to avoid overloading their API). This database can be queried by name and location (latitude, longitude).
+Another part of our project is that we have provide an option for sign in with google , facebook and twitter using Passport.js and one can also continue without login.
 
 ## Challenges we ran into 💻
 1. Fetching, Installing Dependancies and Fixing Backend Errors.
@@ -45,4 +46,4 @@ We were able to partially complete the idea behind the challenge and create a ha
 We experimented lot of API's and learnt pretty much everything we used out of this project.
 
 ## What's next for Hungry for Food?
-We plan to finish this challenge and create a complete web application and help the user to experience the best out of it.
+We plan to finish this challenge and create a complete web application and help user to experience the best out of it.
