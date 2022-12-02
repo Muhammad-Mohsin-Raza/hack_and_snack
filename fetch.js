@@ -8,7 +8,6 @@ button.addEventListener("click", () => {
 
     let output=''
     fetch("https://api.geoapify.com/v2/places?categories=catering.restaurant&filter=geometry:a4cf2dd6ee2d5cd0b9a876c6da2e1640&bias=proximity:67.0265018737081,24.855135150000002&limit=20&apiKey=5de8ece3518b420e81c5266341465736")
-    // fetch(`https://api.geoapify.com/v2/places?categories=catering.restaurant&filter=geometry:a4cf2dd6ee2d5cd0b9a876c6da2e1640&bias=proximity:${long},${lat}&limit=20&apiKey=5de8ece3518b420e81c5266341465736`)
   .then(response => response.json())
   .then(result =>
 
